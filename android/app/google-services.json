@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618183493629",
+    "project_id": "project-ada6c",
+    "storage_bucket": "project-ada6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618183493629:android:3812cd6ee8a0d9d72cbb94",
+        "android_client_info": {
+          "package_name": "com.example.loginscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618183493629-5hgianvihvgmptqb1apl6kq0p6kiv4sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeem5MwS3AQLXksX5vV8FMbpHSMwOU1NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618183493629-5hgianvihvgmptqb1apl6kq0p6kiv4sl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
